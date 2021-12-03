@@ -26,6 +26,7 @@
 
 - [JavaScript Bookmarklet for downloading YouTube Captions](./utils/youtube.captions.download.min.js)
     - [Source Code (Uncompressed)](./utils/youtube.captions.download.js)
+    - [Bookmarklet compiled by](https://chriszarate.github.io/bookmarkleter/)
 
 ---
 
