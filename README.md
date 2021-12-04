@@ -27,6 +27,7 @@
 - [2500 Most Common German Words](./data/2500_Most_Common_German_Words.json)
     - [Reference](https://ankiweb.net/shared/info/1449981999)
     - [Original .apkg file](2500_Most_Common_German_Words.apkg)
+    - Conversion from .apkg to .json was made using the [anki-to-json](https://github.com/CraigglesO/anki-to-json) npm package by [Craig O'Connor](https://github.com/CraigglesO)
 
 ## UTILITIES
 
