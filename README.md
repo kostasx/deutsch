@@ -2,6 +2,8 @@
 
 # DEUTSCH
 
+Some resources I use to learn german. Some of them are targeted for developers.
+
 ## COURSES (FREE)
 
 - [Nicos Weg (Deutsche Welle)](https://learngerman.dw.com/en/nicos-weg/c-36519789)
@@ -29,11 +31,20 @@
     - [Original .apkg file](2500_Most_Common_German_Words.apkg)
     - Conversion from .apkg to .json was made using the [anki-to-json](https://github.com/CraigglesO/anki-to-json) npm package by [Craig O'Connor](https://github.com/CraigglesO)
 
+## PODCASTS / AUDIO
+
+- [**Herr Professor** (free)](https://www.herrprofessor.com/en/podcast/)
+
 ## UTILITIES
 
 - [JavaScript Bookmarklet for downloading YouTube Captions](./utils/youtube.captions.download.min.js)
     - [Source Code (Uncompressed)](./utils/youtube.captions.download.js)
     - [Bookmarklet compiled by](https://chriszarate.github.io/bookmarkleter/)
+
+## (FAVORITE) FILMS & SERIES TO LEARN GERMAN
+
+- [Soul Kitchen (film)](https://www.imdb.com/title/tt1244668/)
+- [How to Sell Drugs Online (Fast) (Netflix)](https://www.imdb.com/title/tt9184994/)
 
 ---
 
